@@ -35,7 +35,7 @@ This project analyzes a supermarket sales dataset to identify revenue drivers, p
 ---
 
 ## 📈 Visuals
-![Top 10 Products by Region](top_products.png)  
+![Top 10 Products by Region](top_products1.png)  
 ![Sales by Hour](sales_by_hour.png)  
 ![Sales by Product Line](sales_by_product.png)  
 
